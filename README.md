@@ -52,4 +52,4 @@ Unlike generic chatbots, this tool is engineered for **Actionable Intelligence**
 **This tool is for educational purposes only.** It is not a doctor and does not provide medical advice. Always consult a certified physician for diagnosis and treatment.
 
 ---
-*Built with ❤️ by [Your Name]*
+*Built with ❤️ by Lakhan Pawar*
