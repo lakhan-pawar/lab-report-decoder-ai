@@ -26,7 +26,7 @@ Unlike generic chatbots, this tool is engineered for **Actionable Intelligence**
 
 1.  **Clone the Repo**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/lab-report-decoder-ai.git](https://github.com/YOUR_USERNAME/lab-report-decoder-ai.git)
+    git clone https://github.com/lakhan-pawar/lab-report-decoder-ai
     cd lab-report-decoder-ai
     ```
 
